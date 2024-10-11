@@ -13,7 +13,7 @@ const products = [
       price: 5,
       quantity: 0,
       productId: 1,
-      image: '/cd2073-intro-to-js-1-project-starter/starter/src/images/strawberry.jpg'
+      image: 'https://github.com/kvancura687/cd2073-intro-to-js-1-project-starter/blob/main/starter/src/images/strawberry.jpg?raw=true'
     },
   
     {
@@ -21,7 +21,7 @@ const products = [
       price: 4,
       quantity: 0,
       productId: 2,
-      image: '/cd2073-intro-to-js-1-project-starter/starter/src/images/cherry.jpg'
+      image: 'https://github.com/kvancura687/cd2073-intro-to-js-1-project-starter/blob/main/starter/src/images/cherry.jpg?raw=true'
     },
   
     {
@@ -29,7 +29,7 @@ const products = [
       price: 10,
       quantity: 0,
       productId: 3,
-      image: '/cd2073-intro-to-js-1-project-starter/starter/src/images/orange.jpg'
+      image: 'https://github.com/kvancura687/cd2073-intro-to-js-1-project-starter/blob/main/starter/src/images/orange.jpg?raw=true'
     }
   ];
   /* Images provided in /images folder. All images from Unsplash.com
